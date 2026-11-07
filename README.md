@@ -62,4 +62,4 @@ Round 3 passed, and I approved the lesson.
 
 Tell an AI to skim and it still reads every word. It can't forget what it read, so Dana's skim copy is built mechanically, with only what a real skimmer would see.
 
-I learned the other thing in earlier work. Four summaries of the same lesson always come out alike, so the "in my own words" line now asks how the reading went, which is where readers differ.
+The cold brew run taught the other lesson. Four summaries of the same lesson always come out alike, so the "in my own words" line now asks how the reading went, which is where readers differ.
