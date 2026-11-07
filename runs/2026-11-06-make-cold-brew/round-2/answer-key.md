@@ -1,0 +1,5 @@
+1. C: "Fine grounds make the coffee bitter and muddy and clog the strainer."
+2. A: "Mix one part coffee with four parts water."
+3. D: "In the fridge, steep it for about 18 to 24 hours."
+4. B: "Pour it through a fine mesh strainer to catch the grounds, then through a paper coffee filter to catch the fine silt."
+5. A: "Keep the undiluted concentrate in a sealed jar in the fridge and use it within about a week."

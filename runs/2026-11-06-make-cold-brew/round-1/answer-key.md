@@ -1,0 +1,5 @@
+1. B: "Use beans ground about as coarse as raw sugar or breadcrumbs."
+2. D: "Mix one part coffee with four parts water."
+3. A: "Steep for 12 to 18 hours."
+4. C: "Do not use hot water, because heat pulls out the bitter flavors cold brew is meant to avoid."
+5. B: "If it is still too strong, add more water to the glass, not to the jar."

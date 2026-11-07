@@ -1,0 +1,5 @@
+1. A: "A fact is any name, date, number, price or quote."
+2. C: "If you cannot find a source for a fact, take it out or confirm it with someone who knows."
+3. D: "Delete anything you did not give it and cannot confirm."
+4. B: "AI drafts read smoothly, so errors do not stand out."
+5. C: "Is the main point in the first two lines?"

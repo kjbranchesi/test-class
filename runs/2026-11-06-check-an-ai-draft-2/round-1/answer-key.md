@@ -1,0 +1,5 @@
+1. D: "If a fact is not in any of those, delete it or confirm it with the person who owns that information, such as the project lead for deadlines or the finance contact for figures."
+2. B: "Keep it only if you have the authority to make that promise and you mean to keep it."
+3. A: "Write your main point in one sentence of your own, then see whether the draft makes that point in its first few lines. If it does not, fix the order first, because polishing text in the wrong order wastes time."
+4. C: "Replace them with the words you would use if you were talking to that person face to face."
+5. B: "Open each attachment to confirm it is the version you mean to send, not just a file with the right name."
